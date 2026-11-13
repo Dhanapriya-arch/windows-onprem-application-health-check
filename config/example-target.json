@@ -1,0 +1,9 @@
+{
+  "ComputerName": "app01.example.local",
+  "DnsName": "app01.example.local",
+  "WebsiteUrl": "https://app01.example.local/",
+  "WebPort": 443,
+  "SqlHost": "sql01.example.local",
+  "SqlPort": 1433,
+  "CertificateWarningDays": 30
+}
