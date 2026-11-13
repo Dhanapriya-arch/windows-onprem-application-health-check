@@ -1,0 +1,3 @@
+# Local diagnostic output can contain environment details
+reports/*.json
+!reports/.gitkeep
